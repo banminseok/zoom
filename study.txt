@@ -1,0 +1,11 @@
+ [!] npm init -y
+ [!] npm i nodemon -D
+ [!] npm i @babel/preset-env -D
+ [!] npm i express
+ [!] npm i pug
+
+ [!] npm run dev
+
+
+ [!] Mvp css
+ 
